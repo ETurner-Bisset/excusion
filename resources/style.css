@@ -3,6 +3,7 @@ body {
     text-align: center;
     font-family: Verdana, Geneva, Tahoma, san-serif;
 }
+/* HEADINGS*/
 
 .header--main {
     color: white;
@@ -10,27 +11,21 @@ body {
     font-size: 50px;
 }
 
+.header--secondry{
+    font-weight: 300;
+    font-size: 42px;
+    color: #ffffff;
+}
+
+.header-sub-header{
+    color: gray;
+    font-size: 21px;
+}
+
+/*LINKS*/
+
 .link--cta {
     color: Aquamarine;
     font-size: 16px;
 }
 
-h2 {
-    color: white;
-    font-weight: 300;
-    font-size: 42px;
-}
-
-p2 {
-    color: gray;
-    font-size: 21px;
-}
-
-img {
-    text-align: center;
-}
-
-p3 {
-    color: Aquamarine;
-    font-size: 16px;
-}
